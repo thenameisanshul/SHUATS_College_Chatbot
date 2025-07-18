@@ -1,0 +1,8 @@
+This project works on python 3.10/3.11.
+python -m pip install -U pip install -U spacy
+
+python -m <name>
+
+
+
+-> pip install blis==1.0.1
